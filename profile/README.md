@@ -29,7 +29,7 @@ You can contribute by:
 - Improving documentation
 - Sharing feedback and ideas
 
-Visit our [GitHub Discussions](https://github.com/The0dinProject/0din/discussions) to get involved in the conversation.
+Visit our [GitHub Discussions](https://github.com/The0dinProject/0din-base/discussions) to get involved in the conversation.
 
 ## Get Involved
 
