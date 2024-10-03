@@ -31,13 +31,14 @@ You can contribute by:
 
 Visit our [GitHub Discussions](https://github.com/The0dinProject/0din-base/discussions) to get involved in the conversation.
 
+You can also visit our [Mastodon](https://mastodon.social/@0din) account.
+
 ## Get Involved
 
 To join our community and contribute to 0din’s development, check out our resources:
 
 - **GitHub**: Explore our repositories and contribute directly.
 - **Discord**: [Join our Discord server](https://discord.gg/WCR7D8xK2s) to connect with the team and other contributors.
-
 
 ## Join Us
 
